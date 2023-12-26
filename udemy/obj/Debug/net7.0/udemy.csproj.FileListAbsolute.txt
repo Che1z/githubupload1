@@ -1,0 +1,15 @@
+/Users/shihminhung/Projects/udemy/udemy/bin/Debug/net7.0/udemy
+/Users/shihminhung/Projects/udemy/udemy/bin/Debug/net7.0/udemy.deps.json
+/Users/shihminhung/Projects/udemy/udemy/bin/Debug/net7.0/udemy.runtimeconfig.json
+/Users/shihminhung/Projects/udemy/udemy/bin/Debug/net7.0/udemy.dll
+/Users/shihminhung/Projects/udemy/udemy/bin/Debug/net7.0/udemy.pdb
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.csproj.AssemblyReference.cache
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.AssemblyInfoInputs.cache
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.AssemblyInfo.cs
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.csproj.CoreCompileInputs.cache
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.dll
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/refint/udemy.dll
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.pdb
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/udemy.genruntimeconfig.cache
+/Users/shihminhung/Projects/udemy/udemy/obj/Debug/net7.0/ref/udemy.dll
